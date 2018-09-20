@@ -138,7 +138,7 @@ namespace First
             Console.WriteLine("\n");
             Console.WriteLine("Naam Oefening: DraaiOm");
             Console.WriteLine("Verwacht Resultaat:");
-            Console.WriteLine("3 19 3 -17 -6 15 3 32 3 -5");
+            Console.WriteLine("3 19 3 -17 -6 15 3 38 3 -5");
             Console.WriteLine("Jouw resultaat");
             b = Program.DraaiOm(nummers);
             foreach (int num in b) { Console.Write("{0} ", num); }
