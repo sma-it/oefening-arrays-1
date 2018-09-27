@@ -33,7 +33,7 @@ namespace First
 		 */
         public static int[] TelSamen(int[] a, int[] c)
         {
-            int[] som = new int[10];
+            int[] som = new int[a.Length];
 
             // schrijf hier je code
 
@@ -62,7 +62,7 @@ namespace First
 		 */
         public static int[] DraaiOm(int[] a)
         {
-            int[] b = new int[5];
+            int[] b = new int[a.Length];
 
             // schrijf hier je code
 
